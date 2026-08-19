@@ -1,4 +1,4 @@
-# Introduction to Playwright 🎭
+# Introduction to Playwright - course🎭
 
 Welcome to the beginner-friendly introduction repository for [Microsoft Playwright](https://playwright.dev/). This project serves as a starting point to learn modern end-to-end (E2E) web testing, browser automation, and reliable locator strategies.
 
@@ -15,7 +15,7 @@ Before running this project, ensure you have the following installed locally:
 
 ## Getting Started
 
-### 1. Clone the Repository
+### 1. Clone the Repository into your laptop
 ```bash
 git clone https://github.com/Alicade123/tau-intro2playwright.git
 cd tau-intro2playwright
